@@ -8,6 +8,7 @@ GUI translation files for Synthesizer V Studio.
 
 #### Translations Contributed by the Community
 
+* Indonesian (`id-id`)
 * Traditional Chinese (`zh-tw`)
 
 ## Contributing
